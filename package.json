@@ -1,5 +1,5 @@
 {
-  "name": "html2json",
+  "name": "html2json-fixed",
   "version": "1.0.2",
   "description": "html to json & json to html",
   "main": "index.js",
@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jxck/html2json.git"
+    "url": "git+https://github.com/a062670/html2json-fixed.git"
   },
   "keywords": [
     "html",
     "json"
   ],
-  "author": "Jxck",
+  "author": "gagu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jxck/html2json/issues"
+    "url": "https://github.com/a062670/html2json-fixed/issues"
   },
-  "homepage": "https://github.com/jxck/html2json#readme",
+  "homepage": "https://github.com/a062670/html2json-fixed",
   "devDependencies": {
     "eslint": "^2.6.0",
     "mocha": "^2.4.5"
